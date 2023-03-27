@@ -1,1 +1,6 @@
 dgdfbgbgn
+
+public static void main()
+{
+test
+}
